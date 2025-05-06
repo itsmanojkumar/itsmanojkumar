@@ -47,7 +47,7 @@ Google Authentication • JWT • Agile Development • Cross-Browser Compatibil
 
 - 📍 Bangalore, India — Open to Relocate
 - 📧 [itsmanojkumar04@gmail.com](mailto:itsmanojkumar04@gmail.com)
-- 🔗 [LinkedIn](www.linkedin.com/in/manoj-kumar-software-developer) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-software-developer)
 - 💻 [GitHub](https://github.com/itsmanojkumar)
 
 ---
