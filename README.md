@@ -35,7 +35,7 @@ Google Authentication • JWT • Agile Development • Cross-Browser Compatibil
 ### 🧾 [GST Billing System](https://github.com/itsmanojkumar/gst-billing-system)
 > A full-stack billing platform for auditors with Google OAuth, real-time GST calculations, and powerful search/sort features.
 
-### 🏨 [Hotel & Restaurant Booking App](https://github.com/itsmanojkumar/hotel-booking-app)
+### 🏨 [Hotel & Restaurant Booking App](https://hotels-searchapp.netlify.app/)
 > Scalable vendor-customer booking system with JWT authentication, role-based access, and reusable UI components.
 
 ### 📚 [E-learning Platform](https://github.com/itsmanojkumar/e-learning-platform)
