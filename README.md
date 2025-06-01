@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manoj Kumar
 
-### 💻 Frontend Developer | React.js • TypeScript • UI/UX | Open to Opportunities
+### 💻 Frontend Developer | Full Stack Developer | React.js • TypeScript • UI/UX | Open to Opportunities
 
 I'm a passionate software developer based in Bangalore, India, with a strong focus on building responsive, scalable, and user-friendly web applications. I specialize in modern frontend development using React, TypeScript, and Tailwind CSS, and I’ve also worked on full-stack projects using Node.js and Supabase.
 
