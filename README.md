@@ -1,56 +1,98 @@
 # 👋 Hi, I'm Manoj Kumar
 
-### 💻AI Engineer | Frontend Developer | Full Stack Developer | React.js • TypeScript • UI/UX | Open to Opportunities
+### 🤖 AI Engineer · LLM Apps · RAG · AI Agents
 
-I'm a passionate software developer based in Bangalore, India, with a strong focus on building responsive, scalable, and user-friendly web applications. I specialize in modern frontend development using React, TypeScript, and Tailwind CSS, and I’ve also worked on full-stack projects using Node.js and Supabase.
+I build production LLM applications: retrieval pipelines over real documents, agents that take actions, and the APIs and interfaces that put them in front of users. I take a project from data ingestion and embeddings through retrieval, generation and evaluation to a deployed product.
 
----
-
-## 🚀 Skills & Technologies
-
-**Frontend:**  
-React.js • TypeScript • JavaScript (ES6+) • Redux • HTML5 • CSS3 • Tailwind CSS • SASS • ShadCN UI • Radix UI
-
-**Backend:**  
-Node.js • Express.js • RESTful APIs • Supabase • Python
-
-**Tools & DevOps:**  
-Git • GitHub • Postman • Vercel • Netlify
-
-**Other:**  
-Google Authentication • JWT • Agile Development • Cross-Browser Compatibility
+- 🔭 Currently building **[LedgerMind](https://github.com/itsmanojkumar/Financial-chatbot)**, a RAG system that answers questions about company annual reports with cited sources
+- 🧠 Focused on retrieval quality, re-ranking, grounded answers with citations, and streaming LLM responses
+- 🤗 Contributing to open source, including a fork of [Hugging Face Transformers](https://github.com/itsmanojkumar/transformers)
+- 📍 Bangalore, India · Reva University '24 · Open to AI Engineer roles and relocation
 
 ---
 
-## 🧠 Certifications
+## 🧠 AI Engineering Toolkit
 
-- 🎓 Full Stack Developer – One Roadmap
+**LLMs & Generation:**
+Groq • Hugging Face Inference • Prompt Engineering • Streaming (SSE) • Multi-provider LLM routing
+
+**Retrieval & RAG:**
+FAISS • Vector Search • Sentence Transformers • Chunking strategies • TF-IDF hybrid recall • Cross-encoder re-ranking (BiomedBERT) • Source citation
+
+**AI Agents:**
+Tool-using LLM agents • Agent web apps (Next.js)
+
+**ML & NLP:**
+scikit-learn • spaCy (NER) • Text classification • Hugging Face Transformers
+
+**Serving & Deployment:**
+Python • FastAPI • Docker • Google Cloud Run • Vercel • Streamlit
+
+**Frontend for AI products:**
+Next.js • React • TypeScript • Tailwind CSS
+
+---
+
+## 📌 AI Projects
+
+### 📊 [LedgerMind: Financial Annual Report RAG Chatbot](https://github.com/itsmanojkumar/Financial-chatbot) · [Live](https://financial-chatbot-eight.vercel.app)
+> Ask questions about indexed annual reports of US and Indian public companies and get answers with cited excerpts, with financial tables rendered as tables. A FastAPI RAG backend on Cloud Run serves answers; live SEC EDGAR (XBRL) and NSE data sit alongside the chat.
+> `RAG` `FastAPI` `Cloud Run` `Next.js` `TypeScript` `Google OAuth`
+
+### 🔎 [RAG Assistant](https://github.com/itsmanojkumar/RAG) · [Live](https://rag-gamma-ten.vercel.app)
+> Upload PDFs or text files and chat with them. Overlapping chunking, sentence-transformer embeddings, FAISS similarity search, streamed answers over SSE, and switchable LLM providers (Groq, Hugging Face), with rate limiting and health checks.
+> `Python` `FastAPI` `FAISS` `Sentence Transformers` `Groq` `React`
+
+### 🩺 [MedQuAD Medical Q&A Chatbot](https://github.com/itsmanojkumar/Elevanceskills)
+> Medical question answering over ~47,000 NIH-sourced Q&A pairs. Two-stage retrieval: TF-IDF recall of top-50 candidates, then re-ranking with a PubMedBERT MS-MARCO model, plus spaCy medical NER highlighting in a Streamlit chat UI.
+> `Two-stage retrieval` `BiomedBERT` `scikit-learn` `spaCy` `Streamlit`
+
+### 🤖 [AI Agent](https://github.com/itsmanojkumar/Ai_agent) · [Live](https://ai-agent-sigma-plum.vercel.app)
+> LLM agent web application built with Next.js.
+> `AI Agents` `LLM` `Next.js` `TypeScript`
+
+### 💬 [AI-Powered Medical Chatbot](https://github.com/itsmanojkumar/AI-Powered-Medical-Chatbot)
+> Conversational assistant for symptom checks and health information using NLP.
+> `NLP` `Chatbot` `React` `Express`
+
+### 📰 [Fake News Detection with ML](https://github.com/itsmanojkumar/-Leveraging-Machine-Learning-for-Fake-News-Detection)
+> Machine learning classifier that labels news articles as real or fake.
+> `Python` `scikit-learn` `NLP` `Text classification`
+
+<details>
+<summary>🛠️ Other full-stack work</summary>
+
+- [Signature Injection Engine](https://github.com/itsmanojkumar/boloforms-signature-engine): drag-and-drop fields and signatures onto PDFs with exact coordinate mapping (Next.js, pdf.js, pdf-lib)
+- [Healthcare Dashboard](https://github.com/itsmanojkumar/Health): patient and doctor dashboard (React, TypeScript)
+- [E-commerce Store](https://github.com/itsmanojkumar/Appscrip-task-ManojKumar): storefront with ordering and tracking (Next.js)
+
+</details>
+
+---
+
+## 🎓 Certifications
+
 - 🤖 AI Engineer – One Roadmap
+- 🎓 Full Stack Developer – One Roadmap
 - 📈 Agile Project Management – Atlassian
 
 ---
 
-## 📌 Highlight Projects
+## 📊 GitHub Stats
 
-/### 🧾 [GST Billing System](https://github.com/itsmanojkumar/gst-billing-system)
-> A full-stack billing platform for auditors with Google OAuth, real-time GST calculations, and powerful search/sort features./
-
-### 🏨 [Hotel & Restaurant Booking App](https://hotels-searchapp.netlify.app/)
-> Scalable vendor-customer booking system with JWT authentication, role-based access, and reusable UI components.
-
-### 📚 [E-learning Platform](https://github.com/itsmanojkumar/e-learning-platform)
-> High-performance educational app using React, Vue, and TypeScript. Reduced load time under 2s with optimized UX.
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsmanojkumar&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmanojkumar&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-- 📍 Bangalore, India — Open to Relocate
 - 📧 [itsmanojkumar04@gmail.com](mailto:itsmanojkumar04@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-software-developer)
 - 💻 [GitHub](https://github.com/itsmanojkumar)
 
 ---
 
-> *"I don't just build features—I craft experiences."*
-
+> *"Turning language models into products people can trust."*
